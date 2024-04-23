@@ -8,7 +8,7 @@ Key Features:
  -Customizable Reporting: Generate detailed reports on inventory movements, transaction history, and more, with customizable options to suit your business needs.<br />
 
 
-Technologies Used:
+Technologies Used:<br />
  -C# <br />
  -.NET Framework <br />
  -Windows Forms (WinForms) <br />
