@@ -8,12 +8,14 @@ Key Features:
  -Customizable Reporting: Generate detailed reports on inventory movements, transaction history, and more, with customizable options to suit your business needs.
 
 Technologies Used:
-C#
-.NET Framework
-Windows Forms (WinForms)
-LINQ to SQL
-SQL Server (or any compatible database)
+ -C#
+ -.NET Framework
+ -Windows Forms (WinForms)
+ -LINQ to SQL
+ -SQL Server (or any compatible database)
 
 ![alt text](https://i.imgur.com/3ZXAtFa.png)
 
-![alt text]([[http://url/to/img.png](https://i.imgur.com/3ZXAtFa.png](https://i.imgur.com/7nJpD7w.png)))
+![alt text]((https://i.imgur.com/7nJpD7w.png))
+
+![alt text](https://i.imgur.com/oIrCS6g.png))
