@@ -14,8 +14,16 @@ Technologies Used:
  -LINQ to SQL
  -SQL Server (or any compatible database)
 
+Products Form
 ![alt text](https://i.imgur.com/3ZXAtFa.png)
 
-![alt text]((https://i.imgur.com/7nJpD7w.png))
+Entries form
+![alt text](https://i.imgur.com/7nJpD7w.png))
 
+Report form
 ![alt text](https://i.imgur.com/oIrCS6g.png))
+
+Generated report PDF file
+![alt text](https://i.imgur.com/lyu576H.png))
+
+
