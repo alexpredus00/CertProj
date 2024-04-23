@@ -3,16 +3,25 @@ CertProj is a comprehensive desktop application designed to streamline inventory
 
 Key Features:
  -Nomenclature Management: Easily manage products, warehouses, and partners through dedicated modules within the application.
+
  -Inventory Operations: Perform various inventory operations such as product entry, exit, and reporting seamlessly.
+
  -User-friendly Interface: Intuitive user interface design makes navigation and data entry simple and efficient.
+
  -Customizable Reporting: Generate detailed reports on inventory movements, transaction history, and more, with customizable options to suit your business needs.
+
 
 Technologies Used:
  -C#
+
  -.NET Framework
+
  -Windows Forms (WinForms)
+
  -LINQ to SQL
+
  -SQL Server (or any compatible database)
+
 
 
 
