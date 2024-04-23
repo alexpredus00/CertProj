@@ -1,4 +1,5 @@
-CertProj
+CertProj <br />
+ <br />
 CertProj is a comprehensive desktop application designed to streamline inventory management and operations for businesses. Built using C# and .NET Framework, CertProj offers a user-friendly interface with intuitive features for managing products, warehouses, and partners, as well as handling inventory transactions effectively.
 
 Key Features:<br />
