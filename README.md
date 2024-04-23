@@ -14,6 +14,6 @@ Windows Forms (WinForms)
 LINQ to SQL
 SQL Server (or any compatible database)
 
-![alt text]([http://url/to/img.png](https://i.imgur.com/3ZXAtFa.png))
+![alt text](https://i.imgur.com/3ZXAtFa.png)
 
 ![alt text]([[http://url/to/img.png](https://i.imgur.com/3ZXAtFa.png](https://i.imgur.com/7nJpD7w.png)))
